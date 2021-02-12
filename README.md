@@ -7,76 +7,64 @@
 # Hy-Tommy
 2. Auto Restart (Hy Tommy)
 3. AdvancedSystemInfo (Hy Tommy)
-7. ChemicalList (Hy-Tommy)
-11. DeathTag (Hy Tommy)
-12. GoogleTrends (Hy-Tommy
-)
-40. PicArrow (Hy-Tommy)
-41. PicCommand (Hy Tommy)
-50. Countchat (Hy-Tommy)
-32. LotteryTicket (Hy-Tommy
-)
+4. ChemicalList (Hy-Tommy)
+5. DeathTag (Hy Tommy)
+6. GoogleTrends (Hy-Tommy)
+7. PicArrow (Hy-Tommy)
+8. PicCommand (Hy Tommy)
+9. Countchat (Hy-Tommy)
+10. LotteryTicket (Hy-Tommy)
 
 # Kaysil
-10. CustomAlerts (Kaysil)
-37. Memer (Kaysil
-)
-38. News (KAYSIL
-)
-39. Note (KAYSIL
-45. QRCode (Kaysil)
-56. Wakeup (Kaysil)
-28. LangAPI (Kaysil
-)
-51. Random (Kaysil)
-15. Google Translate (Kaysil)
+11. CustomAlerts (Kaysil)
+12. Memer (Kaysil)
+13. News (KAYSIL)
+14. Note (KAYSIL
+15. QRCode (Kaysil)
+16. Wakeup (Kaysil)
+17. LangAPI (Kaysil)
+18. Random (Kaysil)
+19. Google Translate (Kaysil)
 
 # Hy-Tommy x UIRI
-4. Badword (Hy, UIRI)
+20. Badword (Hy, UIRI)
 
 # BadAimWeed
-34. MP3Voice (BadAimWeeb
-)
+21.MP3Voice (BadAimWeeb)
 
 # UIRI
-5. COVID-19 Updater (UIRI)
-6. Chemical Equation Balancer (UIRI)
-12. DisableBot (UIRI)
-49. SimSimi (UIRI
-)
+22. COVID-19 Updater (UIRI)
+23. Chemical Equation Balancer (UIRI)
+24. DisableBot (UIRI)
+25. SimSimi (UIRI)
 
 # Trung
-8. Comment (Trung)
-9. Corona (Trung) 
-13. FBget (Trung)
-30. Lizard (Trung
-)
-43. Play (Trung
-)
-48. Shibe (Trung
-)
-53. Rest Countries (Trung)
+26. Comment (Trung)
+27. Corona (Trung) 
+28. FBget (Trung)
+29. Lizard (Trung)
+30. Play (Trung)
+31. Shibe (Trung)
+32. Rest Countries (Trung)
 
 # BerVerCoder
-14. UserInfo (BerVerCoder)
+33. UserInfo (BerVerCoder)
 
 # PTKDrake
-33. MCServer (PTKDrake
-)
-55. Sleep Cycle (PTKDrake)
+34. MCServer (PTKDrake)
+35. Sleep Cycle (PTKDrake)
 
 # Citnut & Cunnobi
-52. PDP Simsimi Beta (Citnut & Cunnobi)
+36. PDP Simsimi Beta (Citnut & Cunnobi)
 
 # Đậu Phụ
-35. MP4VIDEO (Đậu Phụ)
+37. MP4VIDEO (Đậu Phụ)
 
 # Cunnobi
-46. rip (Cunnobi
-)
+38. rip (Cunnobi)
 
 # Wua'n
-54. Rose (Wua'n)
+39. Rose (Wua'n)
 
 # Nguyen The Nam x Xnxxcom
-57. Zodiac (Xnxxcom & Nguyen The Nam)
+40. Zodiac (Xnxxcom & Nguyen The Nam)
