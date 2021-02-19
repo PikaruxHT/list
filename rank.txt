@@ -1,0 +1,9 @@
+}],
+				}, threadID, async (error, info) => {
+					await new Promise(resolve => setTimeout(resolve, 10 * 1000));
+					api.unsendMessage(info.messageID)
+				})
+			}
+		}
+	}
+}
