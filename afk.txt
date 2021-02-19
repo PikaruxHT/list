@@ -1,0 +1,14 @@
+if (contentMessage.indexOf(`${prefix}afk`) == 0) {
+			var content = contentMessage.slice(prefix.length + 4, contentMessage.length);
+			if (content) {
+				await User.updateReason(senderID, content);
+				api.sendMessage('?? | ' + getText('afkWithReason', content), threadID, messageID);
+			}
+			else {
+				await User.updateReason(senderID, 'none');
+				api.sendMessage('?? | ' + getText('afk'), threadID, messageID);
+			}
+			await User.afk(senderID);
+			__GLOBAL.afkUser.push(parseInt(senderID));
+			return;
+		}
